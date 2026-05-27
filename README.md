@@ -2,24 +2,6 @@
 Analyzed an IMDb anime dataset containing 1,000 titles using Python, NumPy, Pandas, Matplotlib and Seaborn. Cleaned and processed the data, reducing inconsistencies and preparing it for analysis. Built custom classes for data loading, analysis, and visualization to explore trends in ratings, genres, popularity, release eras, and airing status.
 The dataset contains information about anime titles, ratings, genres, popularity, release years, and other related features. Using Python and data science libraries, I cleaned and processed the raw data, handled missing or inconsistent values and performed exploratory data analysis to better understand the dataset.
 Throughout the project, I analyzed different trends and relationships within the data, including:
-Distribution of anime ratings
-Most common and highest-rated genres
-Popularity patterns among anime titles
-Trends across release years and different time periods
-Relationships between ratings and popularity
-To make the analysis more understandable and visually appealing, I created multiple visualizations and graphs using Matplotlib and Seaborn. This project also helped me strengthen my understanding of:
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Statistical analysis
-Data visualization
-Python programming
-Working with datasets using Pandas and NumPy
-Organizing analysis in Jupyter Notebook
-The project was developed as part of my learning journey in data science and Python programming, allowing me to apply theoretical concepts to a practical and interesting dataset.
-Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+Distribution of anime ratings, Most common and highest-rated genres, Popularity patterns among anime titles, Trends across release years and different time periods, Relationships between ratings and popularity.
+To make the analysis more understandable and visually appealing, I created multiple visualizations and graphs using Matplotlib and Seaborn. This project also helped me strengthen my understanding of: Data cleaning and preprocessing, Exploratory data analysis (EDA)
+, Statistical analysis, Data visualization, Python programming, Working with datasets using Pandas and NumPy, Organizing analysis in, Jupyter Notebook. The project was developed as part of my learning journey in data science and Python programming, allowing me to apply theoretical concepts to a practical and interesting dataset. Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
